@@ -1,9 +1,9 @@
-# Josiel Santos
+# 👋 Olá, meu nome é Josiel!
 <img src="foto.jpeg" width="250" >
 
 ## Apresentação
 
-Olá! 👋 Meu nome é Josiel Santos, é um prazer conhecê-lo! Sou um entusiasta da tecnologia de 21 anos, nascido e criado em uma pequena cidade do interior do Estado do Pará. Atualmente, estou dedicando meus esforços ao curso de Bacharelado em Sistemas de Informação na Universidade Federal do Oeste do Pará, onde tenho a oportunidade não apenas de expandir meu conhecimento teórico, mas também de aplicar minhas habilidades em projetos práticos. Além dos estudos, sou uma pessoa extremamente apaixonada por desenvolvimento de software. Desde o desenvolvimento de pequenos scripts até projetos mais complexos, estou sempre buscando melhorar minhas habilidades e aprender novas tecnologias.
+s, é um prazer conhecê-lo! Sou um entusiasta da tecnologia de 21 anos, nascido e criado em uma pequena cidade do interior do Estado do Pará. Atualmente, estou dedicando meus esforços ao curso de Bacharelado em Sistemas de Informação na Universidade Federal do Oeste do Pará, onde tenho a oportunidade não apenas de expandir meu conhecimento teórico, mas também de aplicar minhas habilidades em projetos práticos. Além dos estudos, sou uma pessoa extremamente apaixonada por desenvolvimento de software. Desde o desenvolvimento de pequenos scripts até projetos mais complexos, estou sempre buscando melhorar minhas habilidades e aprender novas tecnologias.
 
 Estou ansioso para explorar novas oportunidades de aprendizado, colaboração e crescimento profissional. Se você compartilha minha paixão pela tecnologia ou tem interesse em trabalhar juntos, não hesite em entrar em contato. Estou sempre aberto a novas conexões e desafios emocionantes!
 ## Experiencia Profissional e Academica : 
