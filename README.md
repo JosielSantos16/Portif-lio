@@ -8,7 +8,7 @@ Estou ansioso para explorar novas oportunidades de aprendizado, colaboração e 
 
 🧑‍🎓 Estudante do Curso de Bacharelado em Sistemas de Informação na  Universidade Federal do Oeste do Pará (UFOPA).
 
-![Josiel GitHub stats](https://github-readme-stats.vercel.app/api?username=Josiel Santos&show_icons=true&theme=radical)
+<a href="https://github-readme-stats.vercel.app/api?username=Josiel Santos&show_icons=true&theme=radical")
   
 </div>
 
