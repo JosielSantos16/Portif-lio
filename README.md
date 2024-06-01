@@ -1,17 +1,14 @@
-# 👋 Olá, meu nome é Josiel!
-<img src="foto.jpeg" width="250" >
+### 👋 Olá, meu nome é Josiel!
 
-## Apresentação
-
-s, é um prazer conhecê-lo! Sou um entusiasta da tecnologia de 21 anos, nascido e criado em uma pequena cidade do interior do Estado do Pará. Atualmente, estou dedicando meus esforços ao curso de Bacharelado em Sistemas de Informação na Universidade Federal do Oeste do Pará, onde tenho a oportunidade não apenas de expandir meu conhecimento teórico, mas também de aplicar minhas habilidades em projetos práticos. Além dos estudos, sou uma pessoa extremamente apaixonada por desenvolvimento de software. Desde o desenvolvimento de pequenos scripts até projetos mais complexos, estou sempre buscando melhorar minhas habilidades e aprender novas tecnologias.
+é um prazer conhecê-lo! Sou um entusiasta da tecnologia de 21 anos, nascido e criado em uma pequena cidade do interior do Estado do Pará. Atualmente, estou dedicando meus esforços ao curso de Bacharelado em Sistemas de Informação na Universidade Federal do Oeste do Pará, onde tenho a oportunidade não apenas de expandir meu conhecimento teórico, mas também de aplicar minhas habilidades em projetos práticos. Além dos estudos, sou uma pessoa extremamente apaixonada por desenvolvimento de software. Desde o desenvolvimento de pequenos scripts até projetos mais complexos, estou sempre buscando melhorar minhas habilidades e aprender novas tecnologias.
 
 Estou ansioso para explorar novas oportunidades de aprendizado, colaboração e crescimento profissional. Se você compartilha minha paixão pela tecnologia ou tem interesse em trabalhar juntos, não hesite em entrar em contato. Estou sempre aberto a novas conexões e desafios emocionantes!
+
 ## Experiencia Profissional e Academica : 
 
-#### Educacao :
+🧑‍🎓 Estudante do Curso de Bacharelado em Sistemas de Informação na  Universidade Federal do Oeste do Pará (UFOPA).
 
-- **Curso**: Sistemas de Informações
-- **Periodo**: 2021
+[![Josiel Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Projetos e Trabalhos :
@@ -20,7 +17,7 @@ Estou ansioso para explorar novas oportunidades de aprendizado, colaboração e 
 - Desenvolvimento Front-End de um blog pessoal
 - Desenvolvendo projetos pessoais como método de aprendizagem
 - Projetos com suluções práticas com arduíno
-## Habilidades e Competencias:
+
 ### Linguagens e Tecnologias
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"><img scr="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://camo.githubusercontent.com/6eee5f6e83f1fdb987a4a5707fb989fc10646367244e505ee289b93909c78932/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width: 100%;" width="85" height="30">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
