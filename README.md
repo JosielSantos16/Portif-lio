@@ -14,10 +14,12 @@ Sou um desenvolvedor de software full-stack e academico de Sistemas de Informaç
 
 ## Projetos e Trabalhos :
 
-- Desenvolvimento de um projeto de reconhecimento facial para um caixa de padaria
-- Desenvolvimento Front-End de um blog pessoal
-- Desenvolvendo projetos pessoais como método de aprendizagem
-- Projetos com suluções práticas com arduíno
+- Desenvolvimento de uma aplicação web para Astrologia
+- Desenvolvimento de sistema web para arrecadação de vaquinhas online
+- Desenvolvimento de Sistema de Redistribuição de servidores docente do Ensino Superior e EBTT
+- Desenvolvimento de aplicativo para a cidade Oriximiná
+- Monitor de cursos de Informática60+ para idosos do Serviço de Convivencia e Fortqalecimento de Vínculos(SCFV).
+- Facilitador do curso de programação web e logica de programação com plataforma SCRATCH para alunos do projeto de Inclusão Digital e formação de adolescentes em vulnerabilidade social no Oeste do Pará
 
 
 ### Linguagens e Tecnologias
